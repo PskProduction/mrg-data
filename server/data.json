@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/01/2022",
+    "loadLevel": 46.34,
+    "actualFlow": 6.63,
+    "technicalFlow": 14.31
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/02/2022",
+    "loadLevel": 24.400000000000002,
+    "actualFlow": 8.8,
+    "technicalFlow": 36.07
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/03/2022",
+    "loadLevel": 12.1,
+    "actualFlow": 9.39,
+    "technicalFlow": 77.62
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/04/2022",
+    "loadLevel": 13.870000000000001,
+    "actualFlow": 8.06,
+    "technicalFlow": 58.14
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/05/2022",
+    "loadLevel": 3.95,
+    "actualFlow": 2.98,
+    "technicalFlow": 75.53
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/06/2022",
+    "loadLevel": 3.88,
+    "actualFlow": 2.34,
+    "technicalFlow": 60.42
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/07/2022",
+    "loadLevel": 14.32,
+    "actualFlow": 8.24,
+    "technicalFlow": 57.57
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/08/2022",
+    "loadLevel": 10.700000000000001,
+    "actualFlow": 5.8,
+    "technicalFlow": 54.25
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/09/2022",
+    "loadLevel": 3.74,
+    "actualFlow": 3.73,
+    "technicalFlow": 99.76
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/10/2022",
+    "loadLevel": 7.2700000000000005,
+    "actualFlow": 7.1,
+    "technicalFlow": 97.7
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/11/2022",
+    "loadLevel": 11.120000000000001,
+    "actualFlow": 5.01,
+    "technicalFlow": 45.07
+  },
+  {
+    "name": "Газовск",
+    "mg": "МГ Трубовск",
+    "km": null,
+    "period": "01/12/2022",
+    "loadLevel": 4.08,
+    "actualFlow": 2.66,
+    "technicalFlow": 65.26
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/01/2022",
+    "loadLevel": 33.01,
+    "actualFlow": 5.1,
+    "technicalFlow": 15.45
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/02/2022",
+    "loadLevel": 9.700000000000001,
+    "actualFlow": 7.1,
+    "technicalFlow": 73.26
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/03/2022",
+    "loadLevel": 90.11,
+    "actualFlow": 9.93,
+    "technicalFlow": 11.02
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/04/2022",
+    "loadLevel": 47.800000000000004,
+    "actualFlow": 7.05,
+    "technicalFlow": 14.75
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/05/2022",
+    "loadLevel": 9.13,
+    "actualFlow": 4.93,
+    "technicalFlow": 54.04
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/06/2022",
+    "loadLevel": 49.04,
+    "actualFlow": 9.44,
+    "technicalFlow": 19.25
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/07/2022",
+    "loadLevel": 8.48,
+    "actualFlow": 5.98,
+    "technicalFlow": 70.6
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/08/2022",
+    "loadLevel": 5.2,
+    "actualFlow": 3.1,
+    "technicalFlow": 59.72
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/09/2022",
+    "loadLevel": 4.88,
+    "actualFlow": 1.5,
+    "technicalFlow": 30.74
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/10/2022",
+    "loadLevel": 47.35,
+    "actualFlow": 9.36,
+    "technicalFlow": 19.77
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/11/2022",
+    "loadLevel": 10.27,
+    "actualFlow": 8.55,
+    "technicalFlow": 83.33
+  },
+  {
+    "name": "Промгазовка",
+    "mg": "Трубоград Восток",
+    "km": 336,
+    "period": "01/12/2022",
+    "loadLevel": 32.55,
+    "actualFlow": 7.13,
+    "technicalFlow": 21.91
+  }
+]
