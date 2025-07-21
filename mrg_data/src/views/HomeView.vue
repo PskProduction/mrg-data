@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type {MRGData} from "@/types";
-import {ref} from "vue";
+import {onMounted, ref} from "vue";
 import ModalChart from "@/components/ModalChart.vue";
 import api from "@/axios.ts";
 import ProgressBar from "@/components/ProgressBar.vue";
@@ -61,6 +61,10 @@ const openChartModal = (mrgName: string) => {
 const toggleChartModal = () => {
   isChartModalOpen.value = !isChartModalOpen.value;
 };
+
+onMounted(() => {
+  fetchData();
+})
 
 </script>
 

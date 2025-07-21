@@ -1,0 +1,16 @@
+services:
+  backend:
+    build:
+      context: ./server
+    container_name: backend
+    ports:
+      - "3000:3000"
+    command: npm run start
+
+  frontend:
+    build:
+      context: ./mrg_data
+    container_name: frontend
+    ports:
+      - "5173:5173"
+    command: npm run dev
