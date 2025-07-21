@@ -97,7 +97,7 @@ const toggleChartModal = () => {
         <td class="table__tbody-td">{{ formatNumber(row.actualFlow) }}</td>
         <td class="table__tbody-td">{{ formatNumber(row.technicalFlow) }}</td>
         <td class="table__tbody-td">
-          <button @click="openChartModal(row.name)">
+          <button @click="openChartModal(row.name)" class="table__svg">
             <img src="@/assets/images/svg/chart.svg" alt="Chart icon" class="table__icon">
           </button>
         </td>
@@ -203,6 +203,10 @@ const toggleChartModal = () => {
   width: 16px;
   height: 16px;
   text-align: center;
+}
+
+.table__svg {
+  background-color: white;
 }
 
 .empty {
