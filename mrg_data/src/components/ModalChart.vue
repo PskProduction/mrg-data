@@ -66,7 +66,9 @@ watch(
           legend: {
             position: "bottom",
             horizontalAlign: "center",
+            fontFamily: '"Roboto", sans-serif',
             fontSize: "14px",
+            lineHeight: "17px",
             markers: {
               radius: 3,
               offsetX: -5,

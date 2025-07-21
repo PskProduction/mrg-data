@@ -46,11 +46,7 @@ export class DataController {
           name: row['Магистральный распределительный газопровод'] || '',
           mg: row['Точка подключения МГ (РГ, КС, УРГ)'] || '',
           km: (() => {
-            const val =
-              row['Точка подключения км'] ||
-              row['км'] ||
-              row[' Точка подключения км'] ||
-              '';
+            const val =  row['км'] || '';
             const str = val.toString().trim();
             if (!str || str === '-') return null;
             const num = parseFloat(str.replace(',', '.'));
